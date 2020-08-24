@@ -1,0 +1,48 @@
+História da Programação
+
+As linguagens de programação utilizadas nos computadores atuais diferem das utilizadas no princípio da programação, em que eram considerados apenas códigos. Elas são utilizadas para que o homem possa através das máquinas, resolver problemas usando sequências lógicas. 
+
+A programação moderna começou a ser difundida na década de 1930 quando começaram a produzir computadores elétricos. Em 1942, Konrad Zuse, um engenheiro alemão, desenvolveu a primeira linguagem de programação de alto nível, denominada Plankalkül (Program Calculus). Konrad também projetou e construiu o primeiro computador eletromecânico, o Z3, constituído por relés, que efetuava cálculos, era programável e exibia os resultados em fita perfurada. Após ter seus materiais destruídos pela segunda guerra mundial, exceto o Z4, um de seus modelos de computadores, ele foi morar na vila de Hintersteiner e começou a trabalhar num método para escrever mensagens por meio de símbolos que poderiam ser utilizados como uma linguagem de programação. Entretanto, como, não tinha muita utilidade para a epóca, acabou não sendo reconhecida.
+
+A partir da década de 50, começaram a surgir os primeiros compiladores, propiciando o surgimento de uma nova linguagem de programação denominada FORTRAN (acrônimo da expressão "IBM Mathematical FORmula TRANslation System") que foi desenvolvida por uma equipe da IBM chefiada por John W. Backus. Ele queria desenvolver uma linguagem para realização de cálculos matemáticos complexos à baixo custo. O FORTRAN foi uma das primeiras linguagens de alto nível a tornar-se popular entre a comunidade de programação, sendo utilizada na engenharia e em aplicativos científicos para a resolução de cálculos matemáticos amplos.
+
+Posteriormente, em 1956 John McCarthy após participar uma conferência de Inteligência Artificial, foi apresentado um programa de raciocínio escrito em IPL(Information Processing Language), então o mesmo observou a possibilidade de desenvolver listas encadeadas em IPL, criou a linguagem Lisp, a primeira linguagem funcional. Lisp possibilitava novas opções que não eram possíveis de serem desenvolvidas em Fortran, como: recursão, expressões condicionais e funções de alta ordem.
+
+Nos anos subsequentes surgiram diversas linguagens de programação, entretanto não havia uma padronização entre as mesmas, sendo executadas apenas pelas máquinas de qual foram compiladas, pois necessitava de um tipo de linguagem própria. Para sanar essa questão foi formado, em 1958, um comitê para estabelecer um projeto que desenvolvesse uma linguagem universal, independente de máquina. Com o desenvolvimento do projeto, surgiu o ALGOL (ALGOrithmic Language) e a partir de 1958 todas as linguagens desenvolvidas começaram a utilizar as ideias do Algol.
+
+Em 1970 Niklaus With propôs uma nova linguagem de alto nível usada no ensino da programação estruturada denominada Pascal. As versões comerciais da linguagem foram amplamente utilizadas nos anos 80. É usada nos cursos da área de exatas para introdução a lógica de programação, bem como da versão atualizada de Pascal, Object Pascal e para o desenvolvimento de aplicações para o Windows. Empresas como a Apple utilizaram a linguagem para o computador pessoal Lisa, em 1983.
+
+Na década de 70, a linguagem C, foi uma das favoritas. Criada em 1972 por Dennis Ritchie, ela foi desenvolvida nos laboratórios da Bell Telephone para utilização do sistema Unix. Ela é de uso geral e intermediária. Muitas linguagens originaram dela como C#, Java, JavaScript, PHP, Perl e Python. Foi usada primeiramente para multi-plataformas, para a programação do sistema Unix e para o desenvolvimento de jogos de computador.
+
+Outras linguagens de programação criadas na década de 60 e 70:
+
+    CPL (1963);
+    PL/I (1964);
+    Simula 1 (1964);
+    Snobol (1962);
+    Smalltalk (1969);
+    Prolog (1970);
+    ML(1973);
+    Scheme (1975);
+    Modula (1975);
+    Ada (1979).
+    
+Os anos 80 foi um marco, pois as empresas buscaram investir nas linguagens criadas nas décadas de 60 e 70. Um exemplo disso é a C++, uma linguagem de nível intermediário, orientada a objetos. É uma evolução da linguagem C, com melhorias. Ela foi criada por Bjarne Stroustrup em 1983. Seus usos foram para o desenvolvimento de aplicações comerciais, produção de jogos, etc. Adobe, Microsoft (Internet Explorer), Google (Google Chrome), Mozilla Firefox utilizam-na.
+
+Outras linguagens importantes criadas na época:
+
+    Eiffel (1986);
+    Miranda (1982);
+    Object Pascal (1985);
+    Common Lisp (1984);
+    Haskell 1,0 (1987);
+    Perl (1987).
+
+Nos anos 90, a internet surgiu como um furacão, e mudou totalmente o rumo da programação. As linguagens Java e Javascript foram criadas nesta época, ambas relacionadas com a internet, surgiu também a visual Basic e o Object Pascal.
+
+    Java: Linguagem relativamente simples, orientada para objetos, que foi criada com a Idea de revolucionar as linguagens de programação.
+    PHP: Muito importante para o desenvolvimento de aplicativos para WEB, esta linguagem esta cada vez mais tomando conta dos Web sites.
+
+A programação esta em todos os equipamentos eletrônicos atuais. Cada programa, cada pagina na internet, esta escrita em alguma linguagem de programação. Com o tempo, as linguagens vêm se unindo, formando linguagens mais fortes, e com mais funções.
+
+A programação passou por um grande processo, porem bastante rápido. Estas linguagens estão ficando cada vez mais fáceis de interpretar e escrever.
